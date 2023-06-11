@@ -8,8 +8,8 @@ Aizo is a customizable assistant creator that aims to enhance your experience wi
 
 ## Features
 
-- **Customizable Assistants:** Create your own unique assistant with customized responses, commands, and functionalities.
-- **Integration:** Aizo integrates with Discord and Telegram, allowing you to add your assistant to your server with ease.
+- **Customizable Assistants:** Create your own unique assistant with customized personality
+- **Integration:** Aizo integrates with Discord, allowing you to add your assistant to your server with ease.
 - **Interactive Experience:** Interact with your assistant through natural language commands, making the experience feel more intuitive and engaging.
 
 ## Getting Started
